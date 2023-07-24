@@ -176,10 +176,15 @@ h1{
 
 
 .products{
-    background-color: #afbeb5;
+    background-color: #19ce61;
     padding: 3rem;
-     font-size: 25px;
+     font-size: 20px;
      color: #0e0606;
+
+     
+}
+.products p{
+  background-color: #d81414;
 }
 .email{
   gap: 2px;
