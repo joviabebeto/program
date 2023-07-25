@@ -1,7 +1,13 @@
-let popin1='jori';
-const popin2='jeje';
-const popin3='junia';
-const popins=['popin1','popin2','popin3'];
-console.log(popin1,popin2,popin3);
-console.log(popins)
 
+
+function calcAge1(birthyear){
+    return 2037-birthyear;
+}
+const age1 = calcAge1(1991);
+console.log(age1);
+const calcAge2 = function(birthyear){
+    return 2037-birthyear;
+
+}
+const age2=calcAge2(1995);
+console.log(age1,age2);
