@@ -206,9 +206,10 @@ align-items: center;
      
 }
 .products p{
-  background-color: #f7f0f0;
+
+  
   width: 30%;
-  font-size: 30px;
+  font-size: 20px;
 }
 .email{
   gap: 2px;
@@ -291,7 +292,7 @@ align-items: center;
  
  .partners-container{
     background-color: rgb(104, 121, 214);
-    
+    padding: 3rem;
 
     
     padding: 3rem;
@@ -314,11 +315,22 @@ align-items: center;
   
   .partners p{
     display: flex;
-    justify-content: start;
-    align-items: start;
+    justify-content: center;
+    align-items: center;
     color: black;
-    font-size: 3rem;
+    font-size: 1rem;
   }
+  .partners h1{
+
+    padding: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
+
   .image-partner{
     padding: 1rem;
     width: 10%;
@@ -409,6 +421,25 @@ align-items: center;
     flex-direction: column;
   }
 }
+.Resources-container{
+
+  
+  padding: 3rem;
+}
+.Resources p{
+  
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.resourc-container{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
 
 
  
