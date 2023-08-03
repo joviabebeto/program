@@ -12,7 +12,7 @@ html{
 }
 body{
     
-    background-color: rgb(29, 197, 14);
+    background-image:linear-gradient( to left,#55ee0e3a,rgba(247, 243, 11, 0.377));
   }
   p{
     color: brown;
