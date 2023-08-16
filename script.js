@@ -39,3 +39,8 @@ language='English';
 
 console.log("9"-"4");
 console.log('30'-'20');
+const friend1="pass";
+const friend2="pazo";
+const friend3="remmy";
+const friends=('pass','paza','remmy' );
+console.log(friends);
