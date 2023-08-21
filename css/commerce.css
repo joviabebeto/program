@@ -18,7 +18,7 @@ body{
 }
 nav {
   color: #080808;
-  background-color: rgb(19, 22, 201); 
+  background-color: rgb(122, 122, 119); 
   padding: 2rem;
   display: flex;
   z-index: 9999;
@@ -65,21 +65,16 @@ nav {
   
    font-size: 20px; 
    text-decoration: none;
-  display: flex;
-  gap: 3rem;
+   display: flex;
   list-style-type: none;
-
-  
-  
- 
-  
-  justify-content: space-between;
-  align-items: center;
   color: #eee;
- 
-  
-  
 } 
+ul{
+  margin-right:250px;
+}
+  
+  
+
 .nav-links:hover{
   transform: translate(3px,-3px);
 }
@@ -158,10 +153,7 @@ align-items: center;
   
   font-size: 2rem;
 }
-.logo-image{
-  
 
-}
 .fins{
   background-color: #f4faf4;
   width: 100%;
